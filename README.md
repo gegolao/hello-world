@@ -1,2 +1,3 @@
 # hello-world
 a first test-repository
+my first experiences to use github - just checking how that master/branch stuff works out...
